@@ -4,8 +4,8 @@
  * @param {number} b
  * @returns {number} result
  */
-const sum = (a, b) => {
+function sum(a, b) {
   return a + b;
-};
+}
 
-module.export = sum;
+module.exports = sum;
