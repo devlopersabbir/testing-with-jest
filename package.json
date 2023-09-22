@@ -7,8 +7,16 @@
     "name": "Sabbir Hossain Shuvo",
     "url": "https://devlopersabbir.github.io"
   },
+  "license": "ISC",
+  "keywords": [
+    "jest",
+    "code testing",
+    "testing-with-jest"
+  ],
   "scripts": {
     "test": ""
   },
-  "license": "ISC"
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
