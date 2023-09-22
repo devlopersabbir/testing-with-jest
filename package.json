@@ -1,0 +1,14 @@
+{
+  "name": "testing-with-jest",
+  "description": "Jest testing",
+  "version": "0.0.1",
+  "author": {
+    "email": "devlopersabbir@gmail.com",
+    "name": "Sabbir Hossain Shuvo",
+    "url": "https://devlopersabbir.github.io"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "license": "ISC"
+}
