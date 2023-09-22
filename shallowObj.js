@@ -1,11 +1,12 @@
-/**
- *
- * @param {object} obj object
- * @returns object
- */
+class ShallowObj {
+  /**
+   *
+   * @param {object} obj object
+   * @returns object
+   */
+  constructor(obj) {
+    return { ...obj };
+  }
+}
 
-const shallowObj = (obj) => {
-  return { ...obj };
-};
-
-module.exports = shallowObj;
+module.exports = ShallowObj;
